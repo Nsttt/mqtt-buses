@@ -1,15 +1,15 @@
 import React from "react";
-import {Navbar, NavbarBrand, NavbarContent, NavbarItem, NavbarMenu, NavbarMenuItem, NavbarMenuToggle} from "@nextui-org/navbar";
+import { Navbar, NavbarBrand, NavbarContent, NavbarItem, NavbarMenu, NavbarMenuItem, NavbarMenuToggle } from "@nextui-org/navbar";
 import Link from "next/link";
 import NextImage from "next/image";
-import {Avatar} from "@nextui-org/avatar";
-import {useRouter} from "next/router";
+import { Avatar } from "@nextui-org/avatar";
+import { useRouter } from "next/router";
 
 export default function NavBar() {
 
     const router = useRouter();
 
-    return(
+    return (
         <Navbar shouldHideOnScroll isBordered>
             <NavbarContent justify="start">
                 <NavbarMenuToggle
@@ -19,8 +19,10 @@ export default function NavBar() {
 
             <NavbarContent justify="center">
                 <NavbarBrand>
-                    <Avatar ImgComponent={NextImage} imgProps={{width: 300,
-                        height:300}} src="/logo.png" size="sm" />
+                    <Avatar ImgComponent={NextImage} imgProps={{
+                        width: 300,
+                        height: 300
+                    }} src="/logo.png" size="sm" />
                     <p className="ml-2 font-bold text-inherit">BusCoruña</p>
                 </NavbarBrand>
             </NavbarContent>
@@ -31,11 +33,11 @@ export default function NavBar() {
                         Inicio
                     </Link>
                 </NavbarItem>
-                <NavbarItem isActive={router.pathname === '/graph'}>
+                {/* <NavbarItem isActive={router.pathname === '/graph'}>
                     <Link href="/graph" >
                         Grafo
                     </Link>
-                </NavbarItem>
+                </NavbarItem> */}
                 <NavbarItem isActive={router.pathname === '/map'}>
                     <Link color="foreground" href="/map">
                         Mapa
