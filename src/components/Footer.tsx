@@ -10,7 +10,7 @@ function Colaborators() {
             colaborators
                 .map((colaborator: any, idx: number) => (
                     <div>
-                        <Link href={colaborator.link}>{colaborator.name}</Link>
+                        <Link key={idx} href={colaborator.link}>{colaborator.name}</Link>
                         {idx < colaborators.length - 1 && ' / '}
                     </div>
                 ))
