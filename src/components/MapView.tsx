@@ -1,9 +1,9 @@
-import React, {useEffect, useRef, useState} from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import * as L from "leaflet";
 import "leaflet/dist/leaflet.css";
 
 import buses from '../layers/paradas.json';
-import {connect, MqttClient} from "mqtt";
+import { connect, MqttClient } from "mqtt";
 
 
 var geojsonMarkerOptions = {
@@ -14,6 +14,17 @@ var geojsonMarkerOptions = {
     opacity: 1,
     fillOpacity: 0.8
 };
+
+var busStopIcon = L.icon({
+    iconUrl: '/bus-station.png',
+    // shadowUrl: 'leaf-shadow.png',
+
+    iconSize: [50, 50], // size of the icon
+    // shadowSize: [50, 64], // size of the shadow
+    iconAnchor: [0, 50], // point of the icon which will correspond to marker's location
+    shadowAnchor: [4, 62],  // the same for the shadow
+    popupAnchor: [-3, -76] // point from which the popup should open relative to the iconAnchor
+});
 
 
 
@@ -51,7 +62,7 @@ function MapView(props) {
             client.on("message", (topic, message) => {
                 const payload = { topic, message: message.toString() };
 
-                if(mapContainer.current && mapContainer.current.updateMarker) {
+                if (mapContainer.current && mapContainer.current.updateMarker) {
                     mapContainer.current.updateMarker(payload);
                 } else {
                     client.end();
@@ -66,10 +77,10 @@ function MapView(props) {
 
         const map = L.map(mapContainer.current).setView([43.354375, -8.400403], 13);
 
-        map.setMaxBounds(L.latLngBounds([43.237124,-8.633676], [43.406339,-8.272036]));
+        map.setMaxBounds(L.latLngBounds([43.237124, -8.633676], [43.406339, -8.272036]));
 
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}' + (L.Browser.retina ? '@2x.png' : '.png'), {
-            attribution:'&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
             subdomains: 'abcd',
             maxZoom: 20,
             minZoom: 0
@@ -88,18 +99,18 @@ function MapView(props) {
 
         mapContainer.current.updateMarker = (payload) => {
             console.log(payload)
-            const {latitude, longitude, color} = JSON.parse(payload.message);
+            const { latitude, longitude, color } = JSON.parse(payload.message);
 
-            if(renderedTopics[payload.topic]) {
+            if (renderedTopics[payload.topic]) {
                 const _current = renderedTopics[payload.topic];
                 _current.setLatLng(L.latLng(latitude, longitude))
             } else {
-                renderedTopics[payload.topic] = L.circleMarker([latitude, longitude], {...geojsonMarkerOptions, fillColor: color, radius: 10}).addTo(map);
+                renderedTopics[payload.topic] = L.marker([latitude, longitude], { ...geojsonMarkerOptions, icon: busStopIcon }).addTo(map);
             }
 
             //
 
-          //  marker.setLatLng(L.latLng(latitude, longitude));
+            //  marker.setLatLng(L.latLng(latitude, longitude));
         };
 
         return () => {
