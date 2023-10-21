@@ -1,9 +1,7 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
+import NextImage from "next/image";
 import { MqttClient, connect } from "mqtt";
 import { useEffect, useState } from "react";
-
-const inter = Inter({ subsets: ["latin"] });
+import { Image } from '@nextui-org/react'
 
 export default function Home() {
   const [client, setClient] = useState<MqttClient | null>(
@@ -38,9 +36,15 @@ export default function Home() {
 
   return (
     <main
-      className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
+      className={`flex justify-center self-center items-center align-middle p-6`}
     >
-      {JSON.stringify(payload)}
+      <NextImage
+          width={5000}
+          height={5000}
+          alt={'creadores del proyecto'}
+          className="aspect-video object-contain md:w-1/2 w-full"
+          src={'/us.jpg'}
+      />
     </main>
   );
 }
