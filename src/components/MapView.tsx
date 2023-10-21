@@ -30,7 +30,7 @@ function MapView(props) {
         })
     );
     const [connectStatus, setConnectStatus] = useState("Disconnected");
-    const [payload, setPayload] = useState({});
+    const [payload, setPayload] = useState([{}]);
 
     const [busMarker, setBusMarker] = useState();
 
@@ -39,7 +39,7 @@ function MapView(props) {
             console.log(client);
             client.on("connect", () => {
                 setConnectStatus("Connected");
-                client.subscribe("bus/linea100");
+                client.subscribe("bus/#");
             });
             client.on("error", (err) => {
                 console.error("Connection error: ", err);
@@ -50,10 +50,12 @@ function MapView(props) {
             });
             client.on("message", (topic, message) => {
                 const payload = { topic, message: message.toString() };
-                setPayload(payload);
 
-                if(mapContainer.current.updateMarker) {
+                if(mapContainer.current && mapContainer.current.updateMarker) {
                     mapContainer.current.updateMarker(payload);
+                } else {
+                    client.end();
+                    return;
                 }
             });
         }
@@ -64,7 +66,7 @@ function MapView(props) {
 
         const map = L.map(mapContainer.current).setView([43.354375, -8.400403], 13);
 
-        map.setMaxBounds(L.latLngBounds([43.307611,-8.535193], [43.406339,-8.272036]));
+        map.setMaxBounds(L.latLngBounds([43.237124,-8.633676], [43.406339,-8.272036]));
 
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}' + (L.Browser.retina ? '@2x.png' : '.png'), {
             attribution:'&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -80,16 +82,29 @@ function MapView(props) {
             }
         }).addTo(map);
 
-        const marker = L.circleMarker([50.5, 30.5], {...geojsonMarkerOptions, fillColor: "#1315d9", radius: 10}).addTo(map);
+        //const marker = L.circleMarker([50.5, 30.5], {...geojsonMarkerOptions, fillColor: "#1315d9", radius: 10}).addTo(map);
+
+        const renderedTopics = {};
 
         mapContainer.current.updateMarker = (payload) => {
-            console.log(payload.message)
-            const {latitude, longitude} = JSON.parse(payload.message);
+            console.log(payload)
+            const {latitude, longitude, color} = JSON.parse(payload.message);
 
-            marker.setLatLng(L.latLng(latitude, longitude));
+            if(renderedTopics[payload.topic]) {
+                const _current = renderedTopics[payload.topic];
+                _current.setLatLng(L.latLng(latitude, longitude))
+            } else {
+                renderedTopics[payload.topic] = L.circleMarker([latitude, longitude], {...geojsonMarkerOptions, fillColor: color, radius: 10}).addTo(map);
+            }
+
+            //
+
+          //  marker.setLatLng(L.latLng(latitude, longitude));
         };
 
-        return () => map.remove();
+        return () => {
+            map.remove();
+        }
     }, []);
 
     return (
