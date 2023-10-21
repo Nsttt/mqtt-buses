@@ -1,0 +1,7411 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39585,
+                    43.370115
+                ]
+            },
+            "properties": {
+                "id": 1,
+                "name": "Porta Real"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.399365,
+                    43.369768
+                ]
+            },
+            "properties": {
+                "id": 2,
+                "name": "Av. da Mariña, Teatro Rosalía"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402533,
+                    43.368363
+                ]
+            },
+            "properties": {
+                "id": 3,
+                "name": "Av. da Mariña, Obelisco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404737,
+                    43.36648
+                ]
+            },
+            "properties": {
+                "id": 4,
+                "name": "Pza. de Mina, 26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405232,
+                    43.364718
+                ]
+            },
+            "properties": {
+                "id": 5,
+                "name": "Pza. de Ourense"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405483,
+                    43.362822
+                ]
+            },
+            "properties": {
+                "id": 6,
+                "name": "Linares Rivas, 26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404575,
+                    43.360672
+                ]
+            },
+            "properties": {
+                "id": 7,
+                "name": "Primo de Rivera, 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404442,
+                    43.357153
+                ]
+            },
+            "properties": {
+                "id": 8,
+                "name": "Catro Camiños"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406075,
+                    43.353303
+                ]
+            },
+            "properties": {
+                "id": 9,
+                "name": "Cabaleiros, fronte á Estación Autobuses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405128,
+                    43.351197
+                ]
+            },
+            "properties": {
+                "id": 10,
+                "name": "Cabaleiros, Ministerios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403268,
+                    43.348812
+                ]
+            },
+            "properties": {
+                "id": 11,
+                "name": "Av. de Monelos, Torre 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4016,
+                    43.34707
+                ]
+            },
+            "properties": {
+                "id": 12,
+                "name": "Av. de Monelos, Bloque 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397603,
+                    43.347367
+                ]
+            },
+            "properties": {
+                "id": 15,
+                "name": "Pza. de Pablo Iglesias, 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.396738,
+                    43.348855
+                ]
+            },
+            "properties": {
+                "id": 16,
+                "name": "Abegondo, 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.396965,
+                    43.350303
+                ]
+            },
+            "properties": {
+                "id": 17,
+                "name": "Castrillón, 39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.394442,
+                    43.351477
+                ]
+            },
+            "properties": {
+                "id": 18,
+                "name": "Pza. da Concordia, 27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.391928,
+                    43.351933
+                ]
+            },
+            "properties": {
+                "id": 19,
+                "name": "Av. da Concordia, 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390232,
+                    43.351963
+                ]
+            },
+            "properties": {
+                "id": 20,
+                "name": "Os Castros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.395613,
+                    43.355293
+                ]
+            },
+            "properties": {
+                "id": 21,
+                "name": "Av. do Exército, glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400273,
+                    43.358152
+                ]
+            },
+            "properties": {
+                "id": 22,
+                "name": "Av. do Exército, cruzamento Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403302,
+                    43.359642
+                ]
+            },
+            "properties": {
+                "id": 23,
+                "name": "Primo de Rivera, A Palloza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405097,
+                    43.362
+                ]
+            },
+            "properties": {
+                "id": 24,
+                "name": "Primo de Rivera, viaduto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404943,
+                    43.364415
+                ]
+            },
+            "properties": {
+                "id": 25,
+                "name": "Pza. de Ourense"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404457,
+                    43.366512
+                ]
+            },
+            "properties": {
+                "id": 26,
+                "name": "Pza. de Mina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40146,
+                    43.368712
+                ]
+            },
+            "properties": {
+                "id": 27,
+                "name": "Obelisco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39921,
+                    43.369723
+                ]
+            },
+            "properties": {
+                "id": 28,
+                "name": "Autoridade Portuaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400855,
+                    43.355542
+                ]
+            },
+            "properties": {
+                "id": 29,
+                "name": "Av. de Oza, Río Monelos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39775,
+                    43.354448
+                ]
+            },
+            "properties": {
+                "id": 30,
+                "name": "Av. de Oza, Gaiteira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39427,
+                    43.353722
+                ]
+            },
+            "properties": {
+                "id": 31,
+                "name": "Av. de Oza, 142"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.391733,
+                    43.353085
+                ]
+            },
+            "properties": {
+                "id": 32,
+                "name": "Av. de Oza, 186"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.389982,
+                    43.35266
+                ]
+            },
+            "properties": {
+                "id": 33,
+                "name": "Av. de Oza, 212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.388253,
+                    43.352055
+                ]
+            },
+            "properties": {
+                "id": 34,
+                "name": "Av. de Oza, 254"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.388752,
+                    43.350468
+                ]
+            },
+            "properties": {
+                "id": 35,
+                "name": "Av. de Oza, 290"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390707,
+                    43.350087
+                ]
+            },
+            "properties": {
+                "id": 36,
+                "name": "Av. da Pasaxe, 47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39215,
+                    43.353238
+                ]
+            },
+            "properties": {
+                "id": 37,
+                "name": "Av. de Oza, 185"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.394788,
+                    43.353878
+                ]
+            },
+            "properties": {
+                "id": 38,
+                "name": "Av. de Oza, 141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397947,
+                    43.354593
+                ]
+            },
+            "properties": {
+                "id": 39,
+                "name": "Av. de Oza, 115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403273,
+                    43.356505
+                ]
+            },
+            "properties": {
+                "id": 40,
+                "name": "Av. de Oza, 7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404055,
+                    43.357885
+                ]
+            },
+            "properties": {
+                "id": 41,
+                "name": "Costa da Palloza, 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.431632,
+                    43.374357
+                ]
+            },
+            "properties": {
+                "id": 42,
+                "name": "Emilio González López, Manuel Azaña"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.429193,
+                    43.374988
+                ]
+            },
+            "properties": {
+                "id": 43,
+                "name": "Manuel Azaña, 27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.428102,
+                    43.372877
+                ]
+            },
+            "properties": {
+                "id": 44,
+                "name": "Castelao, Estrada dos Fortes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.423937,
+                    43.372443
+                ]
+            },
+            "properties": {
+                "id": 45,
+                "name": "Gran Canaria, Colombia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.421908,
+                    43.371045
+                ]
+            },
+            "properties": {
+                "id": 46,
+                "name": "Pza. do Conservatorio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420723,
+                    43.369748
+                ]
+            },
+            "properties": {
+                "id": 47,
+                "name": "Paseo de Rda., IES Salvador de Madariaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420457,
+                    43.36704
+                ]
+            },
+            "properties": {
+                "id": 48,
+                "name": "Gregorio Hernández, 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.418622,
+                    43.364758
+                ]
+            },
+            "properties": {
+                "id": 49,
+                "name": "Rda. de Nelle, 145"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416768,
+                    43.362445
+                ]
+            },
+            "properties": {
+                "id": 50,
+                "name": "Rda. de Nelle, 109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414462,
+                    43.359943
+                ]
+            },
+            "properties": {
+                "id": 51,
+                "name": "Rda. de Nelle, 73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411465,
+                    43.359057
+                ]
+            },
+            "properties": {
+                "id": 52,
+                "name": "Rda. de Nelle, Av. de Arteixo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407903,
+                    43.358087
+                ]
+            },
+            "properties": {
+                "id": 53,
+                "name": "Rda. de Nelle, 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39042,
+                    43.351802
+                ]
+            },
+            "properties": {
+                "id": 55,
+                "name": "Av. da Pasaxe, Av. da Concordia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.391132,
+                    43.348682
+                ]
+            },
+            "properties": {
+                "id": 56,
+                "name": "Av. da Pasaxe, Casablanca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.38718,
+                    43.345157
+                ]
+            },
+            "properties": {
+                "id": 57,
+                "name": "Av. da Pasaxe, San Rafael"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.388637,
+                    43.345002
+                ]
+            },
+            "properties": {
+                "id": 58,
+                "name": "CHUAC, Urxencias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.387935,
+                    43.34377
+                ]
+            },
+            "properties": {
+                "id": 59,
+                "name": "CHUAC, glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.386857,
+                    43.34523
+                ]
+            },
+            "properties": {
+                "id": 60,
+                "name": "Av. da Pasaxe, tanatorio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.389308,
+                    43.348515
+                ]
+            },
+            "properties": {
+                "id": 61,
+                "name": "Av. da Pasaxe, viaduto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.391897,
+                    43.351998
+                ]
+            },
+            "properties": {
+                "id": 64,
+                "name": "Av. da Concordia, 14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.395438,
+                    43.35153
+                ]
+            },
+            "properties": {
+                "id": 65,
+                "name": "Av. da Concordia, 50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39716,
+                    43.351048
+                ]
+            },
+            "properties": {
+                "id": 66,
+                "name": "Av. da Concordia, 72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.396892,
+                    43.348863
+                ]
+            },
+            "properties": {
+                "id": 67,
+                "name": "Abegondo, 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397493,
+                    43.347475
+                ]
+            },
+            "properties": {
+                "id": 68,
+                "name": "Pza. de Pablo Iglesias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.399588,
+                    43.347397
+                ]
+            },
+            "properties": {
+                "id": 69,
+                "name": "Av. da Concordia, 188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40052,
+                    43.34622
+                ]
+            },
+            "properties": {
+                "id": 70,
+                "name": "Av. de Monelos, 141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40184,
+                    43.347405
+                ]
+            },
+            "properties": {
+                "id": 71,
+                "name": "Av. de Monelos, 103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403465,
+                    43.349278
+                ]
+            },
+            "properties": {
+                "id": 72,
+                "name": "Av. de Monelos, 45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405035,
+                    43.351185
+                ]
+            },
+            "properties": {
+                "id": 73,
+                "name": "Cabaleiros, 33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405975,
+                    43.353408
+                ]
+            },
+            "properties": {
+                "id": 74,
+                "name": "Cabaleiros, Estación Autobuses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4041,
+                    43.356783
+                ]
+            },
+            "properties": {
+                "id": 75,
+                "name": "Concepción Arenal, 21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404855,
+                    43.357595
+                ]
+            },
+            "properties": {
+                "id": 76,
+                "name": "Enrique Hervada, 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408517,
+                    43.358352
+                ]
+            },
+            "properties": {
+                "id": 77,
+                "name": "Rda. de Nelle, 26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41238,
+                    43.359417
+                ]
+            },
+            "properties": {
+                "id": 78,
+                "name": "Rda. de Nelle, 70"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414522,
+                    43.36016
+                ]
+            },
+            "properties": {
+                "id": 79,
+                "name": "Rda. de Nelle, 90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416995,
+                    43.362928
+                ]
+            },
+            "properties": {
+                "id": 80,
+                "name": "Rda. de Nelle, 130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41826,
+                    43.364495
+                ]
+            },
+            "properties": {
+                "id": 81,
+                "name": "Rda. de Nelle, Paseo das Pontes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420638,
+                    43.367653
+                ]
+            },
+            "properties": {
+                "id": 82,
+                "name": "Paseo de Rda., 24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420508,
+                    43.369788
+                ]
+            },
+            "properties": {
+                "id": 83,
+                "name": "Paseo de Rda., Almirante Lángara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.421288,
+                    43.370773
+                ]
+            },
+            "properties": {
+                "id": 84,
+                "name": "Gran Canaria, Pza. de Náutica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.423798,
+                    43.372853
+                ]
+            },
+            "properties": {
+                "id": 85,
+                "name": "Honduras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42458,
+                    43.374197
+                ]
+            },
+            "properties": {
+                "id": 86,
+                "name": "Labañou, 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427893,
+                    43.375162
+                ]
+            },
+            "properties": {
+                "id": 87,
+                "name": "Manuel Azaña, 26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.431525,
+                    43.374795
+                ]
+            },
+            "properties": {
+                "id": 88,
+                "name": "Manuel Azaña, 64"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.434958,
+                    43.375455
+                ]
+            },
+            "properties": {
+                "id": 89,
+                "name": "Emilio González López, 32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.436083,
+                    43.37297
+                ]
+            },
+            "properties": {
+                "id": 90,
+                "name": "Emilio González López, 54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.424708,
+                    43.367717
+                ]
+            },
+            "properties": {
+                "id": 91,
+                "name": "Rda. de Outeiro, Manuel Murguía"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4244,
+                    43.364997
+                ]
+            },
+            "properties": {
+                "id": 92,
+                "name": "Rda. de Outeiro, 293"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.423267,
+                    43.36333
+                ]
+            },
+            "properties": {
+                "id": 93,
+                "name": "Rda. de Outeiro, 269"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.421567,
+                    43.361055
+                ]
+            },
+            "properties": {
+                "id": 94,
+                "name": "Rda. de Outeiro, 249"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.419653,
+                    43.3584
+                ]
+            },
+            "properties": {
+                "id": 95,
+                "name": "Rda. de Outeiro, 219"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.418158,
+                    43.357283
+                ]
+            },
+            "properties": {
+                "id": 96,
+                "name": "Rda. de Outeiro, Sagrada Familia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414682,
+                    43.356
+                ]
+            },
+            "properties": {
+                "id": 97,
+                "name": "Rda. de Outeiro, Vioño"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.412712,
+                    43.355452
+                ]
+            },
+            "properties": {
+                "id": 98,
+                "name": "Rda. de Outeiro, 147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409787,
+                    43.353977
+                ]
+            },
+            "properties": {
+                "id": 99,
+                "name": "Rda. de Outeiro, 109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409475,
+                    43.352112
+                ]
+            },
+            "properties": {
+                "id": 100,
+                "name": "Av. do Ferrocarril, Estación de Trens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410367,
+                    43.350508
+                ]
+            },
+            "properties": {
+                "id": 101,
+                "name": "Xeneral Rubín"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410402,
+                    43.349188
+                ]
+            },
+            "properties": {
+                "id": 102,
+                "name": "Salgado Torres, Milagrosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414248,
+                    43.34595
+                ]
+            },
+            "properties": {
+                "id": 103,
+                "name": "Salgado Torres, Garda Civil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414452,
+                    43.343883
+                ]
+            },
+            "properties": {
+                "id": 104,
+                "name": "San Cristobal, Birloque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411775,
+                    43.342782
+                ]
+            },
+            "properties": {
+                "id": 105,
+                "name": "San Cristovo, campo de fútbol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403808,
+                    43.34272
+                ]
+            },
+            "properties": {
+                "id": 106,
+                "name": "Camilo José Cela, Matogrande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40122,
+                    43.342812
+                ]
+            },
+            "properties": {
+                "id": 107,
+                "name": "Camilo José Cela, Liceo La Paz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.398825,
+                    43.34437
+                ]
+            },
+            "properties": {
+                "id": 108,
+                "name": "Glorieta cruzamento Eirís"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.399772,
+                    43.345392
+                ]
+            },
+            "properties": {
+                "id": 109,
+                "name": "Av. de Monelos, Oleoduto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.399395,
+                    43.344172
+                ]
+            },
+            "properties": {
+                "id": 111,
+                "name": "Camilo José Cela, Bloque 20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400865,
+                    43.342977
+                ]
+            },
+            "properties": {
+                "id": 112,
+                "name": "Camilo José Cela, Bloque 29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40331,
+                    43.342865
+                ]
+            },
+            "properties": {
+                "id": 113,
+                "name": "Camilo José Cela, Bloque 30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411947,
+                    43.342982
+                ]
+            },
+            "properties": {
+                "id": 114,
+                "name": "San Cristovo, 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413397,
+                    43.344648
+                ]
+            },
+            "properties": {
+                "id": 115,
+                "name": "Pablo Picasso, 11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410738,
+                    43.346477
+                ]
+            },
+            "properties": {
+                "id": 116,
+                "name": "Pablo Picasso, Edif. San Cristóbal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409535,
+                    43.348855
+                ]
+            },
+            "properties": {
+                "id": 117,
+                "name": "Pablo Picasso, Casares Quiroga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41024,
+                    43.350608
+                ]
+            },
+            "properties": {
+                "id": 118,
+                "name": "Xeneral Rubín"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408232,
+                    43.353037
+                ]
+            },
+            "properties": {
+                "id": 119,
+                "name": "Estación de Trens, glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410077,
+                    43.354375
+                ]
+            },
+            "properties": {
+                "id": 120,
+                "name": "Rda. de Outeiro, 126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41212,
+                    43.355353
+                ]
+            },
+            "properties": {
+                "id": 121,
+                "name": "Rda. de Outeiro, 152"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415128,
+                    43.356235
+                ]
+            },
+            "properties": {
+                "id": 122,
+                "name": "Rda. de Outeiro, 172"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.418272,
+                    43.357542
+                ]
+            },
+            "properties": {
+                "id": 123,
+                "name": "Rda. de Outeiro, 212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420273,
+                    43.359588
+                ]
+            },
+            "properties": {
+                "id": 124,
+                "name": "Rda. de Outeiro, 232"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.421457,
+                    43.361227
+                ]
+            },
+            "properties": {
+                "id": 125,
+                "name": "Rda. de Outeiro, 252"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422417,
+                    43.362562
+                ]
+            },
+            "properties": {
+                "id": 126,
+                "name": "Rda. de Outeiro, 272"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.424555,
+                    43.365988
+                ]
+            },
+            "properties": {
+                "id": 127,
+                "name": "Rda. de Outeiro, 304"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40591,
+                    43.357468
+                ]
+            },
+            "properties": {
+                "id": 129,
+                "name": "San Pedro de Mezonzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.429557,
+                    43.367958
+                ]
+            },
+            "properties": {
+                "id": 130,
+                "name": "San Pedro de Visma, igrexa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.431438,
+                    43.368707
+                ]
+            },
+            "properties": {
+                "id": 131,
+                "name": "San Pedro de Visma, 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.434362,
+                    43.369707
+                ]
+            },
+            "properties": {
+                "id": 132,
+                "name": "San Pedro de Visma, Estrada do Portiño"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41973,
+                    43.367483
+                ]
+            },
+            "properties": {
+                "id": 134,
+                "name": "Av. da Habana, 25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407665,
+                    43.367488
+                ]
+            },
+            "properties": {
+                "id": 137,
+                "name": "Pza. de Pontevedra, 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404472,
+                    43.368493
+                ]
+            },
+            "properties": {
+                "id": 138,
+                "name": "Santa Catalina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.395852,
+                    43.370053
+                ]
+            },
+            "properties": {
+                "id": 139,
+                "name": "Porta Real, Dársena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.393733,
+                    43.368748
+                ]
+            },
+            "properties": {
+                "id": 140,
+                "name": "O Parrote, Hotel Finisterre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390217,
+                    43.368828
+                ]
+            },
+            "properties": {
+                "id": 141,
+                "name": "Museo Militar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3922,
+                    43.371533
+                ]
+            },
+            "properties": {
+                "id": 142,
+                "name": "Maestranza, 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.393803,
+                    43.371502
+                ]
+            },
+            "properties": {
+                "id": 143,
+                "name": "Nuestra Señora del Rosario, 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.395578,
+                    43.37193
+                ]
+            },
+            "properties": {
+                "id": 144,
+                "name": "General Alesón"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.394415,
+                    43.373817
+                ]
+            },
+            "properties": {
+                "id": 145,
+                "name": "Orillamar, 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.395008,
+                    43.37508
+                ]
+            },
+            "properties": {
+                "id": 146,
+                "name": "Orillamar, 42"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397478,
+                    43.378098
+                ]
+            },
+            "properties": {
+                "id": 147,
+                "name": "Cemiterio de Santo Amaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.398243,
+                    43.379172
+                ]
+            },
+            "properties": {
+                "id": 148,
+                "name": "Orillamar, 96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.399127,
+                    43.380927
+                ]
+            },
+            "properties": {
+                "id": 149,
+                "name": "Residencia Torrente Ballester"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.396077,
+                    43.38219
+                ]
+            },
+            "properties": {
+                "id": 150,
+                "name": "Durmideiras, praia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.395543,
+                    43.38352
+                ]
+            },
+            "properties": {
+                "id": 151,
+                "name": "Durmideiras, mercado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400387,
+                    43.382137
+                ]
+            },
+            "properties": {
+                "id": 152,
+                "name": "Av. de Navarra, glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402082,
+                    43.383243
+                ]
+            },
+            "properties": {
+                "id": 153,
+                "name": "Cidade Deportiva da Torre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409607,
+                    43.383063
+                ]
+            },
+            "properties": {
+                "id": 154,
+                "name": "Paseo Marítimo, fronte FP Ánxel Casal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409917,
+                    43.380988
+                ]
+            },
+            "properties": {
+                "id": 155,
+                "name": "Paseo Marítimo, As Lagoas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406822,
+                    43.376952
+                ]
+            },
+            "properties": {
+                "id": 156,
+                "name": "Paseo Marítimo, fronte á Domus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403155,
+                    43.374797
+                ]
+            },
+            "properties": {
+                "id": 157,
+                "name": "Paseo Marítimo, fonte dos Surfistas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405942,
+                    43.369752
+                ]
+            },
+            "properties": {
+                "id": 159,
+                "name": "Paseo Marítimo, f/ ó Centro de Saúde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408667,
+                    43.366613
+                ]
+            },
+            "properties": {
+                "id": 160,
+                "name": "Juan Flórez, 10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411735,
+                    43.366208
+                ]
+            },
+            "properties": {
+                "id": 161,
+                "name": "Pza. do Mestre Mateo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416808,
+                    43.368058
+                ]
+            },
+            "properties": {
+                "id": 162,
+                "name": "Av. da Habana, Estadio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.419497,
+                    43.367615
+                ]
+            },
+            "properties": {
+                "id": 163,
+                "name": "Av. da Habana, Cidade Xardín"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.439437,
+                    43.371087
+                ]
+            },
+            "properties": {
+                "id": 164,
+                "name": "O Portiño"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.434655,
+                    43.369808
+                ]
+            },
+            "properties": {
+                "id": 165,
+                "name": "San Pedro de Visma, Estrada Fortes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.431882,
+                    43.368795
+                ]
+            },
+            "properties": {
+                "id": 166,
+                "name": "San Pedro de Visma, Estrada de Bens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404675,
+                    43.368708
+                ]
+            },
+            "properties": {
+                "id": 167,
+                "name": "San Andrés, 121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.401368,
+                    43.370843
+                ]
+            },
+            "properties": {
+                "id": 168,
+                "name": "San Andrés, 33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402708,
+                    43.373363
+                ]
+            },
+            "properties": {
+                "id": 169,
+                "name": "Paseo Marítimo, Salesianos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400608,
+                    43.382097
+                ]
+            },
+            "properties": {
+                "id": 170,
+                "name": "Av. de Navarra, 57"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.399312,
+                    43.380498
+                ]
+            },
+            "properties": {
+                "id": 173,
+                "name": "Av. de Navarra, 27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.398363,
+                    43.37873
+                ]
+            },
+            "properties": {
+                "id": 174,
+                "name": "A Torre, 91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.398238,
+                    43.375628
+                ]
+            },
+            "properties": {
+                "id": 175,
+                "name": "A Torre, 63"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.396467,
+                    43.373333
+                ]
+            },
+            "properties": {
+                "id": 176,
+                "name": "Baltasar Pardal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390768,
+                    43.37205
+                ]
+            },
+            "properties": {
+                "id": 177,
+                "name": "Hípica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.394283,
+                    43.373348
+                ]
+            },
+            "properties": {
+                "id": 178,
+                "name": "A Maestranza, Veramar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390482,
+                    43.368973
+                ]
+            },
+            "properties": {
+                "id": 179,
+                "name": "Xardín de San Carlos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39362,
+                    43.368827
+                ]
+            },
+            "properties": {
+                "id": 180,
+                "name": "O Parrote, Capitanía"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403572,
+                    43.378265
+                ]
+            },
+            "properties": {
+                "id": 181,
+                "name": "Av. de Hércules, mercado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.401232,
+                    43.377215
+                ]
+            },
+            "properties": {
+                "id": 182,
+                "name": "Av. de Hércules, 37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39739,
+                    43.373213
+                ]
+            },
+            "properties": {
+                "id": 183,
+                "name": "Pza. de España, 24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.399365,
+                    43.37247
+                ]
+            },
+            "properties": {
+                "id": 184,
+                "name": "Panadeiras, Museo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402868,
+                    43.370105
+                ]
+            },
+            "properties": {
+                "id": 185,
+                "name": "San Andrés, Africano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407103,
+                    43.367792
+                ]
+            },
+            "properties": {
+                "id": 186,
+                "name": "Pza. Pontevedra, IES Eusebio da Guarda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408128,
+                    43.363957
+                ]
+            },
+            "properties": {
+                "id": 187,
+                "name": "Juan Flórez, 56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408073,
+                    43.362465
+                ]
+            },
+            "properties": {
+                "id": 188,
+                "name": "Juan Flórez, 82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406503,
+                    43.360398
+                ]
+            },
+            "properties": {
+                "id": 189,
+                "name": "Juan Flórez, 116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405032,
+                    43.344497
+                ]
+            },
+            "properties": {
+                "id": 191,
+                "name": "Camilo José Cela, Bloque 44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404053,
+                    43.34588
+                ]
+            },
+            "properties": {
+                "id": 192,
+                "name": "Camilo José Cela, Bloque 56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40254,
+                    43.347043
+                ]
+            },
+            "properties": {
+                "id": 193,
+                "name": "Camilo José Cela, Bloque 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405778,
+                    43.35979
+                ]
+            },
+            "properties": {
+                "id": 194,
+                "name": "Juan Flórez, 119"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406348,
+                    43.362503
+                ]
+            },
+            "properties": {
+                "id": 195,
+                "name": "Pza. de Vigo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406893,
+                    43.365112
+                ]
+            },
+            "properties": {
+                "id": 196,
+                "name": "Pza. de Galicia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408163,
+                    43.36735
+                ]
+            },
+            "properties": {
+                "id": 197,
+                "name": "Pza. de Pontevedra, 11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39938,
+                    43.372425
+                ]
+            },
+            "properties": {
+                "id": 198,
+                "name": "Panaderas, 49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397375,
+                    43.373442
+                ]
+            },
+            "properties": {
+                "id": 199,
+                "name": "Pza. de España"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.398738,
+                    43.379413
+                ]
+            },
+            "properties": {
+                "id": 200,
+                "name": "Santo Tomás, 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.401917,
+                    43.379243
+                ]
+            },
+            "properties": {
+                "id": 201,
+                "name": "Santo Tomás, 72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406488,
+                    43.380038
+                ]
+            },
+            "properties": {
+                "id": 202,
+                "name": "As Lagoas, glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407712,
+                    43.353763
+                ]
+            },
+            "properties": {
+                "id": 203,
+                "name": "Marqués de Figueroa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414507,
+                    43.342703
+                ]
+            },
+            "properties": {
+                "id": 204,
+                "name": "O Birloque, fronte peña A Chave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41335,
+                    43.34045
+                ]
+            },
+            "properties": {
+                "id": 205,
+                "name": "A Cabana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408657,
+                    43.354548
+                ]
+            },
+            "properties": {
+                "id": 206,
+                "name": "Capitán Juan Varela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407435,
+                    43.356387
+                ]
+            },
+            "properties": {
+                "id": 207,
+                "name": "Pza. de Monforte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.425487,
+                    43.347163
+                ]
+            },
+            "properties": {
+                "id": 212,
+                "name": "Estrada de Carballo, Iveco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41097,
+                    43.365695
+                ]
+            },
+            "properties": {
+                "id": 215,
+                "name": "Av. de Fisterra, 44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413047,
+                    43.363597
+                ]
+            },
+            "properties": {
+                "id": 216,
+                "name": "Av. de Fisterra, 84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416072,
+                    43.361065
+                ]
+            },
+            "properties": {
+                "id": 217,
+                "name": "Av. de Fisterra, 192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.418432,
+                    43.359738
+                ]
+            },
+            "properties": {
+                "id": 218,
+                "name": "Av. de Fisterra, 256"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420758,
+                    43.358745
+                ]
+            },
+            "properties": {
+                "id": 219,
+                "name": "Av. de Fisterra, 288"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.423052,
+                    43.357762
+                ]
+            },
+            "properties": {
+                "id": 220,
+                "name": "Av. de Fisterra, Ventorrillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426788,
+                    43.356132
+                ]
+            },
+            "properties": {
+                "id": 221,
+                "name": "A Silva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.429918,
+                    43.354708
+                ]
+            },
+            "properties": {
+                "id": 222,
+                "name": "Fontenova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.433838,
+                    43.352872
+                ]
+            },
+            "properties": {
+                "id": 223,
+                "name": "A Moura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.438775,
+                    43.350905
+                ]
+            },
+            "properties": {
+                "id": 224,
+                "name": "Refinería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.443195,
+                    43.348593
+                ]
+            },
+            "properties": {
+                "id": 225,
+                "name": "San Xosé"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.439577,
+                    43.350313
+                ]
+            },
+            "properties": {
+                "id": 226,
+                "name": "Refinería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.438118,
+                    43.35125
+                ]
+            },
+            "properties": {
+                "id": 227,
+                "name": "Iglexa da Moura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.433297,
+                    43.352955
+                ]
+            },
+            "properties": {
+                "id": 228,
+                "name": "A Moura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42935,
+                    43.354792
+                ]
+            },
+            "properties": {
+                "id": 229,
+                "name": "Fontenova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426227,
+                    43.356208
+                ]
+            },
+            "properties": {
+                "id": 230,
+                "name": "A Silva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422083,
+                    43.357995
+                ]
+            },
+            "properties": {
+                "id": 231,
+                "name": "Ventorrillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420472,
+                    43.35875
+                ]
+            },
+            "properties": {
+                "id": 232,
+                "name": "Av. de Fisterra, Rda. de Outeiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.417335,
+                    43.360152
+                ]
+            },
+            "properties": {
+                "id": 233,
+                "name": "Av. de Fisterra, 215"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415028,
+                    43.361842
+                ]
+            },
+            "properties": {
+                "id": 234,
+                "name": "Av. de Fisterra, 147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41268,
+                    43.363963
+                ]
+            },
+            "properties": {
+                "id": 235,
+                "name": "Av. de Fisterra, 69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411165,
+                    43.365492
+                ]
+            },
+            "properties": {
+                "id": 236,
+                "name": "Av. de Fisterra, 31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413992,
+                    43.368537
+                ]
+            },
+            "properties": {
+                "id": 237,
+                "name": "Riazor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41619,
+                    43.369668
+                ]
+            },
+            "properties": {
+                "id": 238,
+                "name": "Manuel Murguía, Escravas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420218,
+                    43.368998
+                ]
+            },
+            "properties": {
+                "id": 239,
+                "name": "Manuel Murguia, Empresariales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422237,
+                    43.367098
+                ]
+            },
+            "properties": {
+                "id": 240,
+                "name": "Av. de Peruleiro, 20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.423632,
+                    43.362235
+                ]
+            },
+            "properties": {
+                "id": 241,
+                "name": "Mosteiro de Bergondo, 12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42526,
+                    43.36119
+                ]
+            },
+            "properties": {
+                "id": 242,
+                "name": "Peñamaría de Llano, 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426097,
+                    43.358973
+                ]
+            },
+            "properties": {
+                "id": 243,
+                "name": "Alcalde Jaime Hervada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422825,
+                    43.358353
+                ]
+            },
+            "properties": {
+                "id": 244,
+                "name": "Ventorrillo, Centro de Saúde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422573,
+                    43.360108
+                ]
+            },
+            "properties": {
+                "id": 245,
+                "name": "Rodrigo A. de Santiago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.421202,
+                    43.363867
+                ]
+            },
+            "properties": {
+                "id": 246,
+                "name": "Vila de Negreira, 43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41941,
+                    43.364613
+                ]
+            },
+            "properties": {
+                "id": 247,
+                "name": "Vila de Negreira, 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420163,
+                    43.368905
+                ]
+            },
+            "properties": {
+                "id": 248,
+                "name": "Manuel Murguía, Casa da Auga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41617,
+                    43.369578
+                ]
+            },
+            "properties": {
+                "id": 249,
+                "name": "Manuel Murguía, pavillón"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409607,
+                    43.361823
+                ]
+            },
+            "properties": {
+                "id": 250,
+                "name": "Costa da Unión"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410318,
+                    43.359848
+                ]
+            },
+            "properties": {
+                "id": 251,
+                "name": "Pla y Cancela, 38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410402,
+                    43.357698
+                ]
+            },
+            "properties": {
+                "id": 252,
+                "name": "Os Mallos, Biscaia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411758,
+                    43.356132
+                ]
+            },
+            "properties": {
+                "id": 253,
+                "name": "Os Mallos, Ronda Outeiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.412717,
+                    43.351467
+                ]
+            },
+            "properties": {
+                "id": 255,
+                "name": "Av. da Sardiñeira, Europa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410208,
+                    43.353268
+                ]
+            },
+            "properties": {
+                "id": 256,
+                "name": "Av. da Sardiñeira, Estación de Trens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41292,
+                    43.357075
+                ]
+            },
+            "properties": {
+                "id": 257,
+                "name": "Av. de Arteixo, 85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410242,
+                    43.3597
+                ]
+            },
+            "properties": {
+                "id": 258,
+                "name": "Pla y Cancela, 41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409765,
+                    43.361998
+                ]
+            },
+            "properties": {
+                "id": 259,
+                "name": "Enrique Dequidt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397342,
+                    43.377337
+                ]
+            },
+            "properties": {
+                "id": 260,
+                "name": "Cabo Ponte Anido"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.399743,
+                    43.376783
+                ]
+            },
+            "properties": {
+                "id": 261,
+                "name": "Ramón del Cueto, 37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40119,
+                    43.374913
+                ]
+            },
+            "properties": {
+                "id": 262,
+                "name": "Curros Enríquez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407015,
+                    43.379905
+                ]
+            },
+            "properties": {
+                "id": 263,
+                "name": "Av. de Hércules, 115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407945,
+                    43.35212
+                ]
+            },
+            "properties": {
+                "id": 264,
+                "name": "Rda. de Outeiro, Hotel Avenida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40541,
+                    43.35162
+                ]
+            },
+            "properties": {
+                "id": 265,
+                "name": "Rda. de Outeiro, viaduto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.401688,
+                    43.351752
+                ]
+            },
+            "properties": {
+                "id": 266,
+                "name": "Ronda. Outeiro, La Cubela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397443,
+                    43.353372
+                ]
+            },
+            "properties": {
+                "id": 267,
+                "name": "Rda. Outeiro, Merced"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400348,
+                    43.357442
+                ]
+            },
+            "properties": {
+                "id": 268,
+                "name": "Ramón y Cajal, Casa do Mar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404437,
+                    43.35168
+                ]
+            },
+            "properties": {
+                "id": 269,
+                "name": "Rda. de Outeiro, Pérez Ardá"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402245,
+                    43.3588
+                ]
+            },
+            "properties": {
+                "id": 270,
+                "name": "Pza. da Palloza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400362,
+                    43.357963
+                ]
+            },
+            "properties": {
+                "id": 271,
+                "name": "Av. do Exército, Casa do Mar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.398137,
+                    43.356482
+                ]
+            },
+            "properties": {
+                "id": 272,
+                "name": "Av. do Exército, 16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.389027,
+                    43.338657
+                ]
+            },
+            "properties": {
+                "id": 275,
+                "name": "Av. da Pasaxe, gasolineira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.38961,
+                    43.3349
+                ]
+            },
+            "properties": {
+                "id": 276,
+                "name": "Av. da Pasaxe, oncolóxico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390993,
+                    43.330732
+                ]
+            },
+            "properties": {
+                "id": 277,
+                "name": "Av. de Alfonso Molina, Pedralonga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.394712,
+                    43.329977
+                ]
+            },
+            "properties": {
+                "id": 278,
+                "name": "Av. de Alfonso Molina, Palavea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403482,
+                    43.336018
+                ]
+            },
+            "properties": {
+                "id": 279,
+                "name": "Av. de Alfonso Molina, Ofimático"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400727,
+                    43.332662
+                ]
+            },
+            "properties": {
+                "id": 280,
+                "name": "Alfonso Molina, Armas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40699,
+                    43.340885
+                ]
+            },
+            "properties": {
+                "id": 281,
+                "name": "Av. de Alfonso Molina, Matogrande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407373,
+                    43.348645
+                ]
+            },
+            "properties": {
+                "id": 282,
+                "name": "Paxariñas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408275,
+                    43.348673
+                ]
+            },
+            "properties": {
+                "id": 283,
+                "name": "Paxariñas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410812,
+                    43.346522
+                ]
+            },
+            "properties": {
+                "id": 284,
+                "name": "Pablo Picasso, Isaac Díaz Pardo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413493,
+                    43.344572
+                ]
+            },
+            "properties": {
+                "id": 285,
+                "name": "Pablo Picasso, 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407233,
+                    43.340688
+                ]
+            },
+            "properties": {
+                "id": 286,
+                "name": "Av. de Alfonso Molina, Coliséum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404732,
+                    43.337227
+                ]
+            },
+            "properties": {
+                "id": 287,
+                "name": "Av. de Alfonso Molina, Edif. Sindicatos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.401418,
+                    43.332508
+                ]
+            },
+            "properties": {
+                "id": 288,
+                "name": "Av.Alfonso Molina,cruzamento A Zapateira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397665,
+                    43.330243
+                ]
+            },
+            "properties": {
+                "id": 289,
+                "name": "Av. de Alfonso Molina, baixo autoestrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3946,
+                    43.329672
+                ]
+            },
+            "properties": {
+                "id": 290,
+                "name": "Av. de Alfonso Molina, Palavea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.38682,
+                    43.332618
+                ]
+            },
+            "properties": {
+                "id": 291,
+                "name": "Av. da Pasaxe, Ponte da Pasaxe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.389255,
+                    43.335613
+                ]
+            },
+            "properties": {
+                "id": 292,
+                "name": "Av. Pasaxe, Colexio Santa María do Mar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.388817,
+                    43.33929
+                ]
+            },
+            "properties": {
+                "id": 293,
+                "name": "Av. da Pasaxe, Materno Infantil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414605,
+                    43.338047
+                ]
+            },
+            "properties": {
+                "id": 294,
+                "name": "FP Someso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.418542,
+                    43.33783
+                ]
+            },
+            "properties": {
+                "id": 295,
+                "name": "O Martinete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420655,
+                    43.338815
+                ]
+            },
+            "properties": {
+                "id": 296,
+                "name": "Estrada de Pocomaco, O Martinete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422058,
+                    43.335873
+                ]
+            },
+            "properties": {
+                "id": 297,
+                "name": "Estrada de Mesoiro, glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.424258,
+                    43.333123
+                ]
+            },
+            "properties": {
+                "id": 298,
+                "name": "Mesoiro, 22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426008,
+                    43.330915
+                ]
+            },
+            "properties": {
+                "id": 299,
+                "name": "Mesoiro, 90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427332,
+                    43.32907
+                ]
+            },
+            "properties": {
+                "id": 300,
+                "name": "Estrada de Mesoiro, Illas Sisargas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.429943,
+                    43.32428
+                ]
+            },
+            "properties": {
+                "id": 301,
+                "name": "Feáns, 32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.430922,
+                    43.323102
+                ]
+            },
+            "properties": {
+                "id": 302,
+                "name": "Feáns, 56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.43348,
+                    43.322035
+                ]
+            },
+            "properties": {
+                "id": 303,
+                "name": "Feáns, 76"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.435662,
+                    43.320545
+                ]
+            },
+            "properties": {
+                "id": 304,
+                "name": "Estrada Cemiterio, Estrada de Uxes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.442443,
+                    43.316465
+                ]
+            },
+            "properties": {
+                "id": 305,
+                "name": "Cemiterio de Feáns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.443995,
+                    43.313428
+                ]
+            },
+            "properties": {
+                "id": 306,
+                "name": "Urbanización Breogán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.443133,
+                    43.315875
+                ]
+            },
+            "properties": {
+                "id": 307,
+                "name": "Cemiterio de Feáns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.435572,
+                    43.320537
+                ]
+            },
+            "properties": {
+                "id": 308,
+                "name": "Estrada Cemiterio, Estrada de Uxes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.433363,
+                    43.322025
+                ]
+            },
+            "properties": {
+                "id": 309,
+                "name": "Feáns, 109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.430513,
+                    43.323295
+                ]
+            },
+            "properties": {
+                "id": 310,
+                "name": "Feáns, 55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427295,
+                    43.329033
+                ]
+            },
+            "properties": {
+                "id": 311,
+                "name": "Estrada de Mesoiro, Illas Sisargas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427335,
+                    43.33079
+                ]
+            },
+            "properties": {
+                "id": 312,
+                "name": "Pocomaco, cruzamento Mesoiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4286,
+                    43.33202
+                ]
+            },
+            "properties": {
+                "id": 313,
+                "name": "Pocomaco C15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42611,
+                    43.333952
+                ]
+            },
+            "properties": {
+                "id": 314,
+                "name": "Pocomaco C8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422395,
+                    43.33634
+                ]
+            },
+            "properties": {
+                "id": 315,
+                "name": "Pocomaco, gasolineira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420763,
+                    43.338948
+                ]
+            },
+            "properties": {
+                "id": 316,
+                "name": "Estrada de Pocomaco, O Martinete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41676,
+                    43.340555
+                ]
+            },
+            "properties": {
+                "id": 317,
+                "name": "O Birloque, residencial O Birloque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414265,
+                    43.34417
+                ]
+            },
+            "properties": {
+                "id": 318,
+                "name": "San Cristóbal, Salgado Torres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413247,
+                    43.346242
+                ]
+            },
+            "properties": {
+                "id": 319,
+                "name": "Salgado Torres, Garda Civil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410425,
+                    43.348758
+                ]
+            },
+            "properties": {
+                "id": 320,
+                "name": "Salgado Torres, Milagrosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409288,
+                    43.35057
+                ]
+            },
+            "properties": {
+                "id": 321,
+                "name": "Salgado Torres, túnel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402847,
+                    43.355172
+                ]
+            },
+            "properties": {
+                "id": 322,
+                "name": "Ramón y Cajal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414762,
+                    43.342887
+                ]
+            },
+            "properties": {
+                "id": 323,
+                "name": "O Birloque, peña A Chave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416192,
+                    43.340955
+                ]
+            },
+            "properties": {
+                "id": 324,
+                "name": "O Birloque, estrada de Pocomaco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420515,
+                    43.339027
+                ]
+            },
+            "properties": {
+                "id": 325,
+                "name": "Estrada de Pocomaco, O Martinete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422973,
+                    43.336312
+                ]
+            },
+            "properties": {
+                "id": 326,
+                "name": "Pocomaco B15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426048,
+                    43.334167
+                ]
+            },
+            "properties": {
+                "id": 327,
+                "name": "Pocomaco B4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.428613,
+                    43.332135
+                ]
+            },
+            "properties": {
+                "id": 328,
+                "name": "Pocomaco A5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426933,
+                    43.330538
+                ]
+            },
+            "properties": {
+                "id": 329,
+                "name": "Pocomaco, Terceira Rda."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.433803,
+                    43.330707
+                ]
+            },
+            "properties": {
+                "id": 330,
+                "name": "Pocomaco 4, desvio a Vio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.439823,
+                    43.328278
+                ]
+            },
+            "properties": {
+                "id": 331,
+                "name": "Vio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.436488,
+                    43.327205
+                ]
+            },
+            "properties": {
+                "id": 332,
+                "name": "Paideia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.43217,
+                    43.329192
+                ]
+            },
+            "properties": {
+                "id": 333,
+                "name": "Pocomaco, Estrada de Feáns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426708,
+                    43.318707
+                ]
+            },
+            "properties": {
+                "id": 334,
+                "name": "Obradoiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.429417,
+                    43.31975
+                ]
+            },
+            "properties": {
+                "id": 335,
+                "name": "Estrada do Obradorio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.425348,
+                    43.331712
+                ]
+            },
+            "properties": {
+                "id": 336,
+                "name": "Mesoiro, 73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.424003,
+                    43.33324
+                ]
+            },
+            "properties": {
+                "id": 337,
+                "name": "Mesoiro, 43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422142,
+                    43.335173
+                ]
+            },
+            "properties": {
+                "id": 338,
+                "name": "Mesoiro, 11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420457,
+                    43.338465
+                ]
+            },
+            "properties": {
+                "id": 339,
+                "name": "O Martinete, Estrada de Pocomaco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41858,
+                    43.337822
+                ]
+            },
+            "properties": {
+                "id": 340,
+                "name": "O Martinete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414553,
+                    43.338068
+                ]
+            },
+            "properties": {
+                "id": 341,
+                "name": "FP Someso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413475,
+                    43.34078
+                ]
+            },
+            "properties": {
+                "id": 342,
+                "name": "A Cabana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414278,
+                    43.3423
+                ]
+            },
+            "properties": {
+                "id": 343,
+                "name": "O Birloque, polideportivo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406935,
+                    43.352992
+                ]
+            },
+            "properties": {
+                "id": 344,
+                "name": "Av. de Alfonso Molina, Pza. de Madrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40848,
+                    43.347605
+                ]
+            },
+            "properties": {
+                "id": 345,
+                "name": "Paxariñas, Álvaro Cunqueiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403113,
+                    43.334985
+                ]
+            },
+            "properties": {
+                "id": 346,
+                "name": "Av. de Alfonso Molina, Campus de Elviña"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.412198,
+                    43.333013
+                ]
+            },
+            "properties": {
+                "id": 348,
+                "name": "Campus de Elviña, glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410788,
+                    43.33372
+                ]
+            },
+            "properties": {
+                "id": 349,
+                "name": "Campus de Elviña, Informática"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403758,
+                    43.335617
+                ]
+            },
+            "properties": {
+                "id": 350,
+                "name": "Antonio Insua Rivas, 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404445,
+                    43.33391
+                ]
+            },
+            "properties": {
+                "id": 351,
+                "name": "Antonio Insua Rivas, 34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407432,
+                    43.332525
+                ]
+            },
+            "properties": {
+                "id": 352,
+                "name": "Antonio Insua Rivas, 54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408362,
+                    43.330118
+                ]
+            },
+            "properties": {
+                "id": 353,
+                "name": "Antonio Insua Rivas, 86"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408292,
+                    43.32732
+                ]
+            },
+            "properties": {
+                "id": 354,
+                "name": "Campus da Zapateira, Arquitectura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406657,
+                    43.326023
+                ]
+            },
+            "properties": {
+                "id": 356,
+                "name": "Campus da Zapateira, Filoloxía"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40508,
+                    43.330592
+                ]
+            },
+            "properties": {
+                "id": 357,
+                "name": "Nova York, Xesuitinas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.435767,
+                    43.372718
+                ]
+            },
+            "properties": {
+                "id": 358,
+                "name": "Os Rosales, cruzamento San Pedro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405643,
+                    43.349042
+                ]
+            },
+            "properties": {
+                "id": 359,
+                "name": "Salvador de Madariaga, gasolineira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406455,
+                    43.346312
+                ]
+            },
+            "properties": {
+                "id": 361,
+                "name": "Salvador Madariaga, Rafael Alberti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405593,
+                    43.343173
+                ]
+            },
+            "properties": {
+                "id": 362,
+                "name": "Camilo José Cela, San Cristovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397688,
+                    43.34317
+                ]
+            },
+            "properties": {
+                "id": 363,
+                "name": "Av. de Monelos, fronte ó 211"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39538,
+                    43.340508
+                ]
+            },
+            "properties": {
+                "id": 364,
+                "name": "Estrada de Eirís, 40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.392537,
+                    43.338132
+                ]
+            },
+            "properties": {
+                "id": 365,
+                "name": "Av. de Monserrat, xeriátrico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.391295,
+                    43.3366
+                ]
+            },
+            "properties": {
+                "id": 366,
+                "name": "Av. de Monserrat, Urb. Los Arces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.391422,
+                    43.334685
+                ]
+            },
+            "properties": {
+                "id": 367,
+                "name": "Av. de Monserrat, 40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.391128,
+                    43.331948
+                ]
+            },
+            "properties": {
+                "id": 368,
+                "name": "Av. de Pedralonga, Fábrica de Armas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390048,
+                    43.328918
+                ]
+            },
+            "properties": {
+                "id": 369,
+                "name": "Alcampo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.388843,
+                    43.329033
+                ]
+            },
+            "properties": {
+                "id": 370,
+                "name": "Santa Xema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.385807,
+                    43.33112
+                ]
+            },
+            "properties": {
+                "id": 371,
+                "name": "A Pasaxe, Santa Xema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.386875,
+                    43.331208
+                ]
+            },
+            "properties": {
+                "id": 372,
+                "name": "A Pasaxe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39117,
+                    43.332093
+                ]
+            },
+            "properties": {
+                "id": 373,
+                "name": "Av. de Pedralonga, 57"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.391412,
+                    43.334465
+                ]
+            },
+            "properties": {
+                "id": 374,
+                "name": "Av. de Pedralonga, fronte ó 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39126,
+                    43.336668
+                ]
+            },
+            "properties": {
+                "id": 375,
+                "name": "Av. de Monserrat, Oncolóxico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.394115,
+                    43.339653
+                ]
+            },
+            "properties": {
+                "id": 376,
+                "name": "Estrada de Eirís, fronte ó 46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.395997,
+                    43.341263
+                ]
+            },
+            "properties": {
+                "id": 377,
+                "name": "Av. de Monelos, 243"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397685,
+                    43.343267
+                ]
+            },
+            "properties": {
+                "id": 378,
+                "name": "Av. de Monelos, 211"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404133,
+                    43.340717
+                ]
+            },
+            "properties": {
+                "id": 379,
+                "name": "Matogrande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4053,
+                    43.343122
+                ]
+            },
+            "properties": {
+                "id": 380,
+                "name": "Camilo José Cela, Bloque 40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406413,
+                    43.346172
+                ]
+            },
+            "properties": {
+                "id": 381,
+                "name": "Salvador Madariaga, Pablo Neruda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405755,
+                    43.348525
+                ]
+            },
+            "properties": {
+                "id": 382,
+                "name": "Salvador Madariaga, mercado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40467,
+                    43.349807
+                ]
+            },
+            "properties": {
+                "id": 383,
+                "name": "Salvador Madariaga, Monelos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41626,
+                    43.368057
+                ]
+            },
+            "properties": {
+                "id": 384,
+                "name": "Av. da Habana, Pérez Lugin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411777,
+                    43.367943
+                ]
+            },
+            "properties": {
+                "id": 385,
+                "name": "Av. de Bos Aires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403165,
+                    43.375655
+                ]
+            },
+            "properties": {
+                "id": 386,
+                "name": "Paseo Marítimo, Matadoiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406103,
+                    43.376633
+                ]
+            },
+            "properties": {
+                "id": 387,
+                "name": "Paseo Marítimo, Santa Teresa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407403,
+                    43.378623
+                ]
+            },
+            "properties": {
+                "id": 388,
+                "name": "Rda. de Monte Alto, 117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408867,
+                    43.380288
+                ]
+            },
+            "properties": {
+                "id": 389,
+                "name": "Paseo Marítimo, 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409318,
+                    43.382983
+                ]
+            },
+            "properties": {
+                "id": 390,
+                "name": "Paseo Marítimo, FP Ánxel Casal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402255,
+                    43.382888
+                ]
+            },
+            "properties": {
+                "id": 391,
+                "name": "Glorieta da Torre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406875,
+                    43.36783
+                ]
+            },
+            "properties": {
+                "id": 393,
+                "name": "Plaza Pontevedra, Juana de Vega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405798,
+                    43.335232
+                ]
+            },
+            "properties": {
+                "id": 394,
+                "name": "Estrada Campus de Elviña"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.419588,
+                    43.359028
+                ]
+            },
+            "properties": {
+                "id": 395,
+                "name": "Glor. av. de Fisterra, Rda. de Outeiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402655,
+                    43.355692
+                ]
+            },
+            "properties": {
+                "id": 396,
+                "name": "Ramón y Cajal, 30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409425,
+                    43.350703
+                ]
+            },
+            "properties": {
+                "id": 397,
+                "name": "Salgado Torres, túnel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408673,
+                    43.367448
+                ]
+            },
+            "properties": {
+                "id": 398,
+                "name": "Pza. de Pontevedra, 18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406592,
+                    43.353217
+                ]
+            },
+            "properties": {
+                "id": 399,
+                "name": "Av. Alfonso Molina, Estación Autobuses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405027,
+                    43.35967
+                ]
+            },
+            "properties": {
+                "id": 400,
+                "name": "Av. de Alfonso Molina, Fdez. Latorre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.447637,
+                    43.349645
+                ]
+            },
+            "properties": {
+                "id": 402,
+                "name": "Av. Nostián"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.45092,
+                    43.349122
+                ]
+            },
+            "properties": {
+                "id": 403,
+                "name": "Av. do Butano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.456815,
+                    43.349718
+                ]
+            },
+            "properties": {
+                "id": 404,
+                "name": "Nostián"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.45093,
+                    43.349083
+                ]
+            },
+            "properties": {
+                "id": 405,
+                "name": "Av. do Butano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44778,
+                    43.34977
+                ]
+            },
+            "properties": {
+                "id": 406,
+                "name": "Av. Nostián"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.443912,
+                    43.348248
+                ]
+            },
+            "properties": {
+                "id": 407,
+                "name": "San José"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.436542,
+                    43.353143
+                ]
+            },
+            "properties": {
+                "id": 408,
+                "name": "Estrada de Bens, Penamoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.439885,
+                    43.35348
+                ]
+            },
+            "properties": {
+                "id": 409,
+                "name": "Chalés Refinería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.444078,
+                    43.357793
+                ]
+            },
+            "properties": {
+                "id": 410,
+                "name": "Mazaído"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.441922,
+                    43.355003
+                ]
+            },
+            "properties": {
+                "id": 411,
+                "name": "Comeanda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.447868,
+                    43.359465
+                ]
+            },
+            "properties": {
+                "id": 412,
+                "name": "Bens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.441898,
+                    43.35484
+                ]
+            },
+            "properties": {
+                "id": 413,
+                "name": "Comeanda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44351,
+                    43.357123
+                ]
+            },
+            "properties": {
+                "id": 414,
+                "name": "Mazaído"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.439777,
+                    43.353418
+                ]
+            },
+            "properties": {
+                "id": 415,
+                "name": "Chalés Refinería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3951,
+                    43.354605
+                ]
+            },
+            "properties": {
+                "id": 416,
+                "name": "Av. do Exército, 44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414473,
+                    43.342152
+                ]
+            },
+            "properties": {
+                "id": 417,
+                "name": "O Birloque, Bloque 6-8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427533,
+                    43.373368
+                ]
+            },
+            "properties": {
+                "id": 424,
+                "name": "Cocheras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408362,
+                    43.368627
+                ]
+            },
+            "properties": {
+                "id": 425,
+                "name": "Paseo Marítimo, Modesta Goicouria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405547,
+                    43.369858
+                ]
+            },
+            "properties": {
+                "id": 426,
+                "name": "Paseo Marítimo, Centro de Saúde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406195,
+                    43.32496
+                ]
+            },
+            "properties": {
+                "id": 428,
+                "name": "Nova York, Filoloxía"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407942,
+                    43.323643
+                ]
+            },
+            "properties": {
+                "id": 429,
+                "name": "Nova York, Augas Mansas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.421135,
+                    43.314475
+                ]
+            },
+            "properties": {
+                "id": 430,
+                "name": "Nova York, Valaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416738,
+                    43.315553
+                ]
+            },
+            "properties": {
+                "id": 431,
+                "name": "Nova York, Casino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407955,
+                    43.32357
+                ]
+            },
+            "properties": {
+                "id": 432,
+                "name": "Nova York, Rialta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405878,
+                    43.325105
+                ]
+            },
+            "properties": {
+                "id": 433,
+                "name": "Nova York, fronte Filoloxía"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42758,
+                    43.373345
+                ]
+            },
+            "properties": {
+                "id": 434,
+                "name": "Cocheras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403232,
+                    43.326263
+                ]
+            },
+            "properties": {
+                "id": 435,
+                "name": "Nova York, Amberes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402053,
+                    43.368808
+                ]
+            },
+            "properties": {
+                "id": 437,
+                "name": "Obelisco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404522,
+                    43.370733
+                ]
+            },
+            "properties": {
+                "id": 438,
+                "name": "P. Maritimo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.402657,
+                    43.355693
+                ]
+            },
+            "properties": {
+                "id": 439,
+                "name": "Campus Zapateira, Casa Francés"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390488,
+                    43.349762
+                ]
+            },
+            "properties": {
+                "id": 440,
+                "name": "General Sanjurjo, Carret. Pasaxe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416572,
+                    43.315662
+                ]
+            },
+            "properties": {
+                "id": 443,
+                "name": "Nova York, fronte ó Casino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400673,
+                    43.346245
+                ]
+            },
+            "properties": {
+                "id": 445,
+                "name": "Av. de Monelos, Bloque 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40044,
+                    43.347047
+                ]
+            },
+            "properties": {
+                "id": 446,
+                "name": "Vicente Aleixandre, 39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39976,
+                    43.3479
+                ]
+            },
+            "properties": {
+                "id": 447,
+                "name": "Antonio Noche, 10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405867,
+                    43.329822
+                ]
+            },
+            "properties": {
+                "id": 452,
+                "name": "Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403557,
+                    43.327858
+                ]
+            },
+            "properties": {
+                "id": 453,
+                "name": "Nova York, Belgrado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41008,
+                    43.326915
+                ]
+            },
+            "properties": {
+                "id": 456,
+                "name": "Intercampus, Arquitectura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413108,
+                    43.327983
+                ]
+            },
+            "properties": {
+                "id": 457,
+                "name": "Intercampus, pobo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413187,
+                    43.327822
+                ]
+            },
+            "properties": {
+                "id": 458,
+                "name": "Intercampus, O Castro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.412742,
+                    43.331075
+                ]
+            },
+            "properties": {
+                "id": 459,
+                "name": "Intercampus, Económicas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41217,
+                    43.332603
+                ]
+            },
+            "properties": {
+                "id": 460,
+                "name": "Intercampus, glorieta Elviña"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406307,
+                    43.334795
+                ]
+            },
+            "properties": {
+                "id": 461,
+                "name": "Campus de Elviña, cruzamento pobo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.408427,
+                    43.32721
+                ]
+            },
+            "properties": {
+                "id": 462,
+                "name": "Campus da Zapateira, Aparelladores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42021,
+                    43.314702
+                ]
+            },
+            "properties": {
+                "id": 463,
+                "name": "Valaire 107-109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.424173,
+                    43.308458
+                ]
+            },
+            "properties": {
+                "id": 464,
+                "name": "O Carón"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415037,
+                    43.343015
+                ]
+            },
+            "properties": {
+                "id": 465,
+                "name": "Birloque, 22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414112,
+                    43.355212
+                ]
+            },
+            "properties": {
+                "id": 466,
+                "name": "Av. de Arteixo, fronte ó 105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415717,
+                    43.35256
+                ]
+            },
+            "properties": {
+                "id": 467,
+                "name": "Av. de Arteixo, Centro de Saúde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416998,
+                    43.351702
+                ]
+            },
+            "properties": {
+                "id": 468,
+                "name": "Maria J. Wonenburger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.430185,
+                    43.35014
+                ]
+            },
+            "properties": {
+                "id": 469,
+                "name": "Newton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.430857,
+                    43.352087
+                ]
+            },
+            "properties": {
+                "id": 470,
+                "name": "Severo Ochoa, Newton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.424373,
+                    43.350883
+                ]
+            },
+            "properties": {
+                "id": 471,
+                "name": "Severo Ochoa, Galileo Galilei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.417943,
+                    43.349853
+                ]
+            },
+            "properties": {
+                "id": 472,
+                "name": "Av. da Sardiñeira, Fenosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416358,
+                    43.349322
+                ]
+            },
+            "properties": {
+                "id": 473,
+                "name": "Av. da Sardiñeira, IES"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404028,
+                    43.325722
+                ]
+            },
+            "properties": {
+                "id": 480,
+                "name": "Nova York, Los Abetos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.428162,
+                    43.347933
+                ]
+            },
+            "properties": {
+                "id": 481,
+                "name": "Newton, Galileo Galilei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390888,
+                    43.371232
+                ]
+            },
+            "properties": {
+                "id": 482,
+                "name": "A Maestranza, Metrosidero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.421888,
+                    43.31111
+                ]
+            },
+            "properties": {
+                "id": 483,
+                "name": "Valaire, O Carón"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.43602,
+                    43.372942
+                ]
+            },
+            "properties": {
+                "id": 485,
+                "name": "Los Rosales, Residencia Ancianos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4299,
+                    43.326313
+                ]
+            },
+            "properties": {
+                "id": 486,
+                "name": "Illas Sisargas, supermercado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.433035,
+                    43.325828
+                ]
+            },
+            "properties": {
+                "id": 487,
+                "name": "Novo Mesoiro, 10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.435775,
+                    43.325113
+                ]
+            },
+            "properties": {
+                "id": 488,
+                "name": "Novo Mesoiro, 30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44012,
+                    43.325118
+                ]
+            },
+            "properties": {
+                "id": 489,
+                "name": "Ribeira Sacra, 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.444162,
+                    43.324305
+                ]
+            },
+            "properties": {
+                "id": 490,
+                "name": "Ribeira Sacra, 12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.442022,
+                    43.323802
+                ]
+            },
+            "properties": {
+                "id": 491,
+                "name": "Fragas do Eume"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.438408,
+                    43.324768
+                ]
+            },
+            "properties": {
+                "id": 492,
+                "name": "Novo Mesoiro, fronte ó 38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.435442,
+                    43.325063
+                ]
+            },
+            "properties": {
+                "id": 493,
+                "name": "Novo Mesoiro, 25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.432647,
+                    43.325865
+                ]
+            },
+            "properties": {
+                "id": 494,
+                "name": "Novo Mesoiro, 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.429187,
+                    43.326537
+                ]
+            },
+            "properties": {
+                "id": 495,
+                "name": "Illas Sisargas, Feáns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.398672,
+                    43.343862
+                ]
+            },
+            "properties": {
+                "id": 496,
+                "name": "Glorieta cruzamento Eirís, viaduto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.407318,
+                    43.337142
+                ]
+            },
+            "properties": {
+                "id": 497,
+                "name": "Campus de Elviña, Edif. Sindicatos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403202,
+                    43.328262
+                ]
+            },
+            "properties": {
+                "id": 498,
+                "name": "Nova York, Londres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.436663,
+                    43.353095
+                ]
+            },
+            "properties": {
+                "id": 499,
+                "name": "Estrada Bens, av. de Fisterra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.387785,
+                    43.342142
+                ]
+            },
+            "properties": {
+                "id": 500,
+                "name": "Av. da Pasaxe, As Xubias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39832,
+                    43.329908
+                ]
+            },
+            "properties": {
+                "id": 501,
+                "name": "Lugar de Penarredonda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.398213,
+                    43.343625
+                ]
+            },
+            "properties": {
+                "id": 502,
+                "name": "Barrio de las Flores, Eiris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404848,
+                    43.339212
+                ]
+            },
+            "properties": {
+                "id": 503,
+                "name": "Edificio Proa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427928,
+                    43.351555
+                ]
+            },
+            "properties": {
+                "id": 504,
+                "name": "Severo Ochoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403953,
+                    43.351207
+                ]
+            },
+            "properties": {
+                "id": 505,
+                "name": "Pérez Arda,  Brasil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40013,
+                    43.346192
+                ]
+            },
+            "properties": {
+                "id": 506,
+                "name": "Vicente Aleixandre, 55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400835,
+                    43.348047
+                ]
+            },
+            "properties": {
+                "id": 507,
+                "name": "Vicente Aleixandre, 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39584,
+                    43.349275
+                ]
+            },
+            "properties": {
+                "id": 508,
+                "name": "Curtis, fronte ó 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39489,
+                    43.350552
+                ]
+            },
+            "properties": {
+                "id": 509,
+                "name": "José María Hernansáez, 31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.445162,
+                    43.359168
+                ]
+            },
+            "properties": {
+                "id": 522,
+                "name": "Igrexa de Bens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390042,
+                    43.367915
+                ]
+            },
+            "properties": {
+                "id": 523,
+                "name": "Abente y Lago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.393145,
+                    43.35396
+                ]
+            },
+            "properties": {
+                "id": 524,
+                "name": "Av. do Exército, 68"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390665,
+                    43.352245
+                ]
+            },
+            "properties": {
+                "id": 525,
+                "name": "Os Castros, Av. da Concordia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406388,
+                    43.367657
+                ]
+            },
+            "properties": {
+                "id": 526,
+                "name": "Juana de Vega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415002,
+                    43.369482
+                ]
+            },
+            "properties": {
+                "id": 527,
+                "name": "Riazor, Esclavas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409732,
+                    43.381565
+                ]
+            },
+            "properties": {
+                "id": 528,
+                "name": "Casa de los Peces, Las Lagoas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.401417,
+                    43.382612
+                ]
+            },
+            "properties": {
+                "id": 529,
+                "name": "Torre de Hercules, Glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.394272,
+                    43.377633
+                ]
+            },
+            "properties": {
+                "id": 530,
+                "name": "San Amaro, Cementerio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390302,
+                    43.372285
+                ]
+            },
+            "properties": {
+                "id": 531,
+                "name": "Maestranza Hipica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.389232,
+                    43.367262
+                ]
+            },
+            "properties": {
+                "id": 532,
+                "name": "Castillo de San Anton, Glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.392917,
+                    43.367967
+                ]
+            },
+            "properties": {
+                "id": 533,
+                "name": "La Solana, provisional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.388762,
+                    43.36731
+                ]
+            },
+            "properties": {
+                "id": 535,
+                "name": "Castillo de San Anton, Nautico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390203,
+                    43.372367
+                ]
+            },
+            "properties": {
+                "id": 536,
+                "name": "Maestranza, costa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.394238,
+                    43.378057
+                ]
+            },
+            "properties": {
+                "id": 537,
+                "name": "San Amaro, Costa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40745,
+                    43.38215
+                ]
+            },
+            "properties": {
+                "id": 538,
+                "name": "Cocheras Tranvia, I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40745,
+                    43.38215
+                ]
+            },
+            "properties": {
+                "id": 539,
+                "name": "Cocheras Tranvia, V"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41151,
+                    43.339055
+                ]
+            },
+            "properties": {
+                "id": 540,
+                "name": "Espacio Coruña"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.445762,
+                    43.359408
+                ]
+            },
+            "properties": {
+                "id": 541,
+                "name": "Igrexa de Bens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.441898,
+                    43.311258
+                ]
+            },
+            "properties": {
+                "id": 542,
+                "name": "Luis Iglesias, 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.441912,
+                    43.311218
+                ]
+            },
+            "properties": {
+                "id": 543,
+                "name": "Luis Iglesias, 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.443775,
+                    43.309865
+                ]
+            },
+            "properties": {
+                "id": 544,
+                "name": "Francisco Sánchez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390067,
+                    43.3376
+                ]
+            },
+            "properties": {
+                "id": 545,
+                "name": "Oncolóxico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44275,
+                    43.312
+                ]
+            },
+            "properties": {
+                "id": 546,
+                "name": "Cruzamento de Luis Freire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44273,
+                    43.31205
+                ]
+            },
+            "properties": {
+                "id": 547,
+                "name": "Félix Rodríguez de la Fuente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.443833,
+                    43.3135
+                ]
+            },
+            "properties": {
+                "id": 548,
+                "name": "Breogan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40922,
+                    43.381352
+                ]
+            },
+            "properties": {
+                "id": 549,
+                "name": "As Lagoas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.428935,
+                    43.345977
+                ]
+            },
+            "properties": {
+                "id": 550,
+                "name": "Área Comercial Marineda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.386815,
+                    43.352535
+                ]
+            },
+            "properties": {
+                "id": 551,
+                "name": "Porto de Oza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.386878,
+                    43.34708
+                ]
+            },
+            "properties": {
+                "id": 552,
+                "name": "Hospital de Oza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.436638,
+                    43.374295
+                ]
+            },
+            "properties": {
+                "id": 553,
+                "name": "Emilio González López, 44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403925,
+                    43.371508
+                ]
+            },
+            "properties": {
+                "id": 554,
+                "name": "Paseo Marítimo, Cancela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400775,
+                    43.373092
+                ]
+            },
+            "properties": {
+                "id": 555,
+                "name": "Rúa Hospital, Zalaeta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.396217,
+                    43.373817
+                ]
+            },
+            "properties": {
+                "id": 556,
+                "name": "San Juan, 10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.404133,
+                    43.340717
+                ]
+            },
+            "properties": {
+                "id": 557,
+                "name": "Matogrande, rotonda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410492,
+                    43.326608
+                ]
+            },
+            "properties": {
+                "id": 558,
+                "name": "Intercampus, Arquitectura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.424437,
+                    43.369017
+                ]
+            },
+            "properties": {
+                "id": 559,
+                "name": "Rda. de Outeiro, IES Rafael Dieste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.422252,
+                    43.371128
+                ]
+            },
+            "properties": {
+                "id": 560,
+                "name": "Educación, Conservatorio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.421165,
+                    43.35223
+                ]
+            },
+            "properties": {
+                "id": 561,
+                "name": "José María Rivera Corral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411977,
+                    43.349758
+                ]
+            },
+            "properties": {
+                "id": 562,
+                "name": "Av. do Ferrocarril, 14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415732,
+                    43.346863
+                ]
+            },
+            "properties": {
+                "id": 563,
+                "name": "Av. do Ferrocarril, 54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.419685,
+                    43.348185
+                ]
+            },
+            "properties": {
+                "id": 564,
+                "name": "San Cristovo, av. da Sardiñeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.416433,
+                    43.346543
+                ]
+            },
+            "properties": {
+                "id": 565,
+                "name": "Av. do Ferrocarril, 81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414202,
+                    43.347867
+                ]
+            },
+            "properties": {
+                "id": 566,
+                "name": "Av. do Ferrocarril, Pza. Ozores Arraiz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.411495,
+                    43.35007
+                ]
+            },
+            "properties": {
+                "id": 567,
+                "name": "Av. do Ferrocarril, 33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.400157,
+                    43.381617
+                ]
+            },
+            "properties": {
+                "id": 568,
+                "name": "Av. de Navarra, Rda. de Monte Alto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403565,
+                    43.381202
+                ]
+            },
+            "properties": {
+                "id": 569,
+                "name": "Rda. de Monte Alto, 32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405927,
+                    43.381115
+                ]
+            },
+            "properties": {
+                "id": 570,
+                "name": "Rda. de Monte Alto, 52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410972,
+                    43.322327
+                ]
+            },
+            "properties": {
+                "id": 571,
+                "name": "Nova York, A Zapateira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409985,
+                    43.322508
+                ]
+            },
+            "properties": {
+                "id": 572,
+                "name": "Nova York, A Zapateira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.447587,
+                    43.34607
+                ]
+            },
+            "properties": {
+                "id": 573,
+                "name": "Travesía de Meicende, 159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.450893,
+                    43.344278
+                ]
+            },
+            "properties": {
+                "id": 574,
+                "name": "Meicende, Av. do Butano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.446917,
+                    43.346405
+                ]
+            },
+            "properties": {
+                "id": 575,
+                "name": "Travesía de Meicende, 166"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.443907,
+                    43.348005
+                ]
+            },
+            "properties": {
+                "id": 576,
+                "name": "Travesía de Meicende, 214"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.450778,
+                    43.34431
+                ]
+            },
+            "properties": {
+                "id": 577,
+                "name": "Meicende, Av. do Butano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.41284,
+                    43.321822
+                ]
+            },
+            "properties": {
+                "id": 578,
+                "name": "Nova York, lugar de Monte do Espiño"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.409648,
+                    43.34882
+                ]
+            },
+            "properties": {
+                "id": 579,
+                "name": "Pza. de Casares Quiroga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.414245,
+                    43.347958
+                ]
+            },
+            "properties": {
+                "id": 580,
+                "name": "Av. do Ferrocarril,f/ Pza.Ozores Arraiz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.418097,
+                    43.347307
+                ]
+            },
+            "properties": {
+                "id": 581,
+                "name": "Av. do Ferrocarril, Residencial Trébole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415795,
+                    43.344023
+                ]
+            },
+            "properties": {
+                "id": 582,
+                "name": "Aparcadoiro Lonzas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415668,
+                    43.344068
+                ]
+            },
+            "properties": {
+                "id": 583,
+                "name": "Aparcadoiro Lonzas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.378762,
+                    43.333485
+                ]
+            },
+            "properties": {
+                "id": 584,
+                "name": "Santa Cristina, Glorieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.429608,
+                    43.29585
+                ]
+            },
+            "properties": {
+                "id": 585,
+                "name": "Urbanización Os Olivos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.431143,
+                    43.295133
+                ]
+            },
+            "properties": {
+                "id": 586,
+                "name": "Urbanización Valle Sur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.427625,
+                    43.301898
+                ]
+            },
+            "properties": {
+                "id": 587,
+                "name": "Urbanización Monte Golf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426672,
+                    43.307193
+                ]
+            },
+            "properties": {
+                "id": 588,
+                "name": "Urbanización O Carón"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40918,
+                    43.348172
+                ]
+            },
+            "properties": {
+                "id": 589,
+                "name": "Provisional, Jose Miñones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.385033,
+                    43.346165
+                ]
+            },
+            "properties": {
+                "id": 590,
+                "name": "Hospital de Oza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.385612,
+                    43.344475
+                ]
+            },
+            "properties": {
+                "id": 591,
+                "name": "As Xubias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.403147,
+                    43.353008
+                ]
+            },
+            "properties": {
+                "id": 592,
+                "name": "Perez Ardá, C. Chile"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.419818,
+                    43.373652
+                ]
+            },
+            "properties": {
+                "id": 593,
+                "name": "Obelisco Millenium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.413248,
+                    43.356913
+                ]
+            },
+            "properties": {
+                "id": 594,
+                "name": "Avda. Arteixo, 74"
+            }
+        }
+    ]
+}

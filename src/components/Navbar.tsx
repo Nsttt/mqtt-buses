@@ -9,8 +9,8 @@ export default function NavBar() {
 
     const router = useRouter();
 
-    return (
-        <Navbar shouldHideOnScroll isBordered>
+    return(
+        <Navbar>
             <NavbarContent justify="start">
                 <NavbarMenuToggle
                     className="sm:hidden"
