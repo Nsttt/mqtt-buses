@@ -1,0 +1,43 @@
+version: '3'
+services:
+  emqx:
+    image: emqx/emqx:latest
+    container_name: emqx
+    environment:
+      - EMQX_LOADED_PLUGINS="emqx_management,emqx_dashboard"
+    ports:
+      - "1883:1883"
+      - "8081:8081"
+      - "8083:8083"
+      - "8084:8084"
+    volumes:
+      - emqx_data:/opt/emqx/data
+      - emqx_log:/opt/emqx/log
+    networks:
+      - emqx-net
+
+  node-red:
+    image: nodered/node-red:latest
+    container_name: node-red
+    environment:
+      - TZ=Asia/Shanghai  # Change this to your own timezone
+    ports:
+      - "1880:1880"
+    volumes:
+      - node_red_data:/data
+    networks:
+      - emqx-net
+    depends_on:
+      - emqx
+
+networks:
+  emqx-net:
+    driver: bridge
+
+volumes:
+  emqx_data:
+    driver: local
+  emqx_log:
+    driver: local
+  node_red_data:
+    driver: local
